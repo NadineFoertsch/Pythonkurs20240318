@@ -1,6 +1,7 @@
 from time import sleep
 import os
-#Test 123
+#Test 15
+#Ich ergänze :-) und ändere
  
 WaffelBecher=0
 KugelMax=5
